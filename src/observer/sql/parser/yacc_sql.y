@@ -314,6 +314,7 @@ value:
 		}
     ;
     
+	
 delete:		/*  delete 语句的语法解析树*/
     DELETE FROM ID where SEMICOLON 
 		{
